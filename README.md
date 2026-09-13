@@ -1,6 +1,6 @@
 # CursoAnalisisDeDatos
 
-# Flujo commit de Git
+## Flujo commit de Git
 
 1. Traer los cambios
     ```bash
